@@ -1,14 +1,14 @@
 ### INDEX
-GET http://localhost:8000/
+GET http://localhost:9000/
 
 ### ABOUT
-GET http://localhost:8000/about
+GET http://localhost:9000/about
 
 ### BLOG
-GET http://localhost:8000/blog
+GET http://localhost:9000/blog
 
 ### BLOG
-POST http://localhost:8000/blog
+POST http://localhost:9000/blog
 
 ### BLOG
-GET http://localhost:8000/blog?limit=100&published=true
+GET http://localhost:9000/blog?limit=100&published=true
