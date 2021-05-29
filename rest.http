@@ -1,0 +1,14 @@
+### INDEX
+GET http://localhost:8000/
+
+### ABOUT
+GET http://localhost:8000/about
+
+### BLOG
+GET http://localhost:8000/blog
+
+### BLOG
+POST http://localhost:8000/blog
+
+### BLOG
+GET http://localhost:8000/blog?limit=100&published=true
